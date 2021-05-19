@@ -1,0 +1,64 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "nome": "+velozes +furiosos",
+      "ano": 2003,
+      "gênero": "ação",
+      "descricao": "O ex-policial Brian O'Conner se muda de Los Angeles para Miami para recomeçar sua vida. Ele acaba se envolvendo em rachas na sua nova cidade com seu amigo Tej e Suki. Suas aventuras terminam quando ele é preso e faz um acordo com agentes do FBI. Brian tem a missão muito perigosa de prender um poderoso chefe do cartel das drogas.",
+      "diretor": "John Singleton",
+      "poster": [
+        {"url": "/assets/imagens/+velozes +furiosos.jpg"},
+        {"url": "/assets/imagens/007 um novo dia para morrer"},
+        {"url": "/assets/imagens/60 segundos"},
+        {"url": "/assets/imagens/Harry Potter Azkaban"}
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "007 Um novo dia para morrer",
+      "ano": 2002,
+      "gênero": "ação",
+      "descricao": "Após se libertar de uma prisão na Coreia do Norte, James Bond entra em ação para perseguir o maligno Gustav Graves, que está desenvolvendo uma arma de alta tecnologia capaz de colocar o mundo em risco.",
+      "diretor": "Lee Tamahori",
+      "pôster": [
+        {"url": "/assets/imagens/007 um novo dia para morrer"},
+        {"url": "/assets/imagens/+velozes +furiosos.jpg"},
+        {"url": "/assets/imagens/60 segundos"},
+        {"url": "/assets/imagens/Harry Potter Azkaban"}
+
+
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "60 segundos",
+      "ano": 2000,
+      "gênero": "ação",
+      "descricao": "Randall Memphis Raines é um ex-ladrão de carros que se vê forçado a roubar 50 veículos de luxo em uma noite para salvar a vida de seu irmão, que caiu em desgraça com um perigoso senhor do crime. Outrora o ladrão de carros mais bem-sucedido da Califórnia, ele agora deve reunir sua antiga gangue para cumprir a missão quase impossível",
+      "diretor": "Dominic Sena",
+      "pôster": [
+        {"url": "/assets/imagens/60 segundos"},
+        {"url": "/assets/imagens/007 um novo dia para morrer"},
+        {"url": "/assets/imagens/+velozes +furiosos.jpg"},
+        {"url": "/assets/imagens/Harry Potter Azkaban"}
+
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Harry Potter e o Prisioneiro de Azkaban",
+      "ano": 2004,
+      "gênero": "Fantasia/Aventura",
+      "descricao": "O terceiro ano de Harry Potter em Hogwarts começa mal quando ele descobre que o assassino Sirius Black escapou da prisão de Azkaban e está empenhado em matá-lo. Enquanto o gato de Hermione atormenta o rato doente de Ron, dementadores são enviados para proteger a escola de Sirius Black. Um professor misterioso ajuda Harry a aprender a se defender",
+      "diretor": "Alfonso Cuarón",
+      "pôster": [
+        {"url": "/assets/imagens/Harry Potter Azkaban"},
+        {"url": "/assets/imagens/60 segundos"},
+        {"url": "/assets/imagens/007 um novo dia para morrer"},
+        {"url": "/assets/imagens/+velozes +furiosos.jpg"}
+
+      ]
+    }
+  ]
+}

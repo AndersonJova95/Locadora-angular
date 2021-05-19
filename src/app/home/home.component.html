@@ -1,0 +1,32 @@
+
+      <div class="container">
+  
+        <div class="secao">
+          <h1 class="text-center">Lista de Filmes</h1>
+        </div>
+      
+        <hr />
+      
+        <div class="row">
+          <div class="col-sm-4" *ngFor="let filme of filmes">
+            <div class="card">
+               <img class="card-img-top" src="/assets/imagens/60 segundos.jpg" width="550" height="450"> 
+              <div class="card-block">
+                <h4 class="card-title">{{filme.nome}}</h4>
+                <p class="card-text">{{filme.ano}}</p>
+                <p class="card-text">{{filme.diretor}}</p>
+                <p class="card-text">{{filme.descricao}}</p>
+                <p class="card-text">{{filme.genero}}</p>
+                <hr>
+                
+                
+              </div>
+            </div>
+          </div>
+      
+
+            </div>
+        
+    
+          </div>
+
